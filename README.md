@@ -3,17 +3,13 @@
 # Project: SQL Zoo
 - SQL Zoo is one of the few resources online that actually lets you build and run queries against existing tables. Each tutorial will show you a table and then have you run queries against it to answer specific questions. Some of the queries, particularly at first, are quite simple. They definitely get more challenging towards the end and can be real head scratchers.
 
-![screenshot](screenshot.png)
+![screenshot](sqlsite_screenshoot.PNG)
 
 # Getting Started
 
 - This project contains all questions and answers to them from 
   [SQL ZOO Tutorial](https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial)
 
-
-## Live Demo
-
-[Live Demo Link](https://repl.it/@Igors78/MySQL#README.md)
 
 ## On your Computer
 
@@ -31,7 +27,9 @@ To get a local copy up and running follow these simple example steps.
 ### Install
 
 - Go to your preferred directory
-- Run `git clone https://github.com/Igors78/MySQL.git` command
+- Run `git clone  https://github.com/billodiallo/slq_database.git` 
+
+- cd `sql_database` 
 
 ### Usage
 
@@ -45,12 +43,12 @@ To get a local copy up and running follow these simple example steps.
 - Virtual Studio Code
 
 ## Author
+👤 **Billo Diallo**
 
-👤 **Igors Oleinikovs**
+- GitHub:[@billodiallo](https://github.com/billodiallo)
+- Twitter: [@BilloDi83547008](https://twitter.com/BilloDi83547008)
+- Linkedin:[@mabillodiallo](https://www.linkedin.com/in/mabillodiallo/)
 
-- GitHub: [@githubhandle](https://github.com/Igors78)
-- Twitter: [@twitterhandle](https://twitter.com/oleinikovs)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/igors-oleinikovs-17a10958/)
 
 ## 🤝 Contributing
 
